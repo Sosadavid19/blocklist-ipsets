@@ -116,25 +116,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 20236,
-		"common": 1199
+		"ips": 20004,
+		"common": 1192
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 613,
-		"common": 165
+		"ips": 602,
+		"common": 164
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16556,
-		"common": 1033
+		"ips": 16336,
+		"common": 1027
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1831,
+		"ips": 1828,
 		"common": 1
 	},
 	{
@@ -482,8 +482,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84332,
-		"common": 27003
+		"ips": 84333,
+		"common": 27004
 	},
 	{
 		"name": "firehol_level1",
@@ -494,8 +494,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 127449,
-		"common": 1216
+		"ips": 127218,
+		"common": 1209
 	},
 	{
 		"name": "firehol_level3",
@@ -860,8 +860,14 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37274,
-		"common": 706
+		"ips": 37215,
+		"common": 727
+	},
+	{
+		"name": "nt_ssh_7d",
+		"category": "attacks",
+		"ips": 1941,
+		"common": 1
 	},
 	{
 		"name": "nullsecure",
@@ -1257,7 +1263,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373078985,
-		"common": 2885
+		"common": 2886
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -1293,7 +1299,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 3214
+		"common": 3215
 	},
 	{
 		"name": "sp_atma",
@@ -1322,20 +1328,20 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 124,
-		"common": 124
+		"ips": 125,
+		"common": 125
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 1710,
-		"common": 1708
+		"ips": 1711,
+		"common": 1709
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 406,
-		"common": 406
+		"ips": 407,
+		"common": 407
 	},
 	{
 		"name": "stopforumspam",

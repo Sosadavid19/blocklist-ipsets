@@ -86,19 +86,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 20236,
-		"common": 6
+		"ips": 20004,
+		"common": 7
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9372,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 808,
+		"ips": 803,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16556,
+		"ips": 16336,
 		"common": 6
 	},
 	{
@@ -344,7 +350,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84332,
+		"ips": 84333,
 		"common": 32
 	},
 	{
@@ -356,8 +362,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 127449,
-		"common": 263
+		"ips": 127218,
+		"common": 264
 	},
 	{
 		"name": "firehol_level3",
@@ -374,7 +380,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27035,
+		"ips": 27036,
 		"common": 17
 	},
 	{
@@ -566,7 +572,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37274,
+		"ips": 37215,
 		"common": 3
 	},
 	{
@@ -746,13 +752,13 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 1710,
+		"ips": 1711,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 406,
+		"ips": 407,
 		"common": 1
 	},
 	{
