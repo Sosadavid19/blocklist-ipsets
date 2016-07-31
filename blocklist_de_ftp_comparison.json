@@ -21,25 +21,25 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 1161,
-		"common": 48
+		"common": 49
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 8720,
-		"common": 107
+		"common": 108
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 3888,
-		"common": 89
+		"common": 90
 	},
 	{
 		"name": "bi_ftp_2_30d",
 		"category": "attacks",
 		"ips": 244,
-		"common": 106
+		"common": 107
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -50,8 +50,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 22839,
-		"common": 324
+		"ips": 22876,
+		"common": 326
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -105,19 +105,19 @@
 		"name": "cleantalk_1d",
 		"category": "abuse",
 		"ips": 33947,
-		"common": 129
+		"common": 130
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 144284,
-		"common": 221
+		"common": 222
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 77510,
-		"common": 180
+		"common": 181
 	},
 	{
 		"name": "cleantalk_new",
@@ -147,19 +147,19 @@
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
 		"ips": 38481,
-		"common": 98
+		"common": 99
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 105480,
-		"common": 169
+		"common": 170
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 83496,
-		"common": 143
+		"common": 144
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -189,19 +189,19 @@
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 42156,
-		"common": 132
+		"common": 133
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 303543,
-		"common": 231
+		"common": 232
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 136193,
-		"common": 324
+		"ips": 136230,
+		"common": 326
 	},
 	{
 		"name": "firehol_level3",
@@ -363,7 +363,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373078985,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "sorbs_noserver",
@@ -387,7 +387,13 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 75
+		"common": 76
+	},
+	{
+		"name": "sp_atma",
+		"category": "attacks",
+		"ips": 8771,
+		"common": 1
 	},
 	{
 		"name": "stopforumspam",
