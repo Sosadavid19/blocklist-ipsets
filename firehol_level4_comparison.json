@@ -110,7 +110,7 @@
 	{
 		"name": "bambenek_tinba",
 		"category": "malware",
-		"ips": 16,
+		"ips": 17,
 		"common": 3
 	},
 	{
@@ -141,19 +141,19 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 8720,
-		"common": 1521
+		"common": 1522
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 3900,
-		"common": 962
+		"common": 963
 	},
 	{
 		"name": "bi_ftp_2_30d",
 		"category": "attacks",
 		"ips": 244,
-		"common": 144
+		"common": 145
 	},
 	{
 		"name": "bi_http_2_30d",
@@ -290,8 +290,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10048,
-		"common": 10048
+		"ips": 10052,
+		"common": 10052
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -435,13 +435,13 @@
 		"name": "cleantalk_1d",
 		"category": "abuse",
 		"ips": 34581,
-		"common": 6104
+		"common": 6103
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 144533,
-		"common": 13152
+		"common": 13153
 	},
 	{
 		"name": "cleantalk_7d",
@@ -465,7 +465,7 @@
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 78429,
-		"common": 3648
+		"common": 3649
 	},
 	{
 		"name": "cleantalk_new_7d",
@@ -489,7 +489,7 @@
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
 		"ips": 39430,
-		"common": 7404
+		"common": 7403
 	},
 	{
 		"name": "cleantalk_updated_30d",
@@ -584,7 +584,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 54714,
+		"ips": 54717,
 		"common": 310
 	},
 	{
@@ -819,13 +819,13 @@
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 42847,
-		"common": 8106
+		"common": 8105
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 303846,
-		"common": 20515
+		"common": 20516
 	},
 	{
 		"name": "firehol_anonymous",
@@ -1149,13 +1149,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 2537706
+		"common": 2537707
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 162107
+		"common": 162108
 	},
 	{
 		"name": "iblocklist_malc0de",
@@ -1341,7 +1341,7 @@
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 37829,
-		"common": 198
+		"common": 197
 	},
 	{
 		"name": "nt_malware_http",
@@ -1550,26 +1550,26 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1135,
-		"common": 289
+		"ips": 1169,
+		"common": 296
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2411,
-		"common": 453
+		"ips": 2421,
+		"common": 454
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 9962,
+		"ips": 9966,
 		"common": 1198
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 5119,
-		"common": 716
+		"ips": 5118,
+		"common": 715
 	},
 	{
 		"name": "proxyrss",
@@ -1623,25 +1623,25 @@
 		"name": "proxz",
 		"category": "anonymizers",
 		"ips": 25,
-		"common": 6
+		"common": 10
 	},
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 286,
-		"common": 89
+		"ips": 270,
+		"common": 86
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2364,
+		"ips": 2365,
 		"common": 569
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 948,
-		"common": 253
+		"ips": 947,
+		"common": 252
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -1791,13 +1791,13 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373078985,
-		"common": 23732
+		"common": 23734
 	},
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 101680,
-		"common": 500
+		"common": 499
 	},
 	{
 		"name": "sorbs_noserver",
@@ -1809,7 +1809,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1122897,
-		"common": 3831
+		"common": 3830
 	},
 	{
 		"name": "sorbs_smtp",
@@ -1821,7 +1821,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6096302,
-		"common": 4356
+		"common": 4357
 	},
 	{
 		"name": "sorbs_zombie",
@@ -1833,7 +1833,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 28686
+		"common": 28687
 	},
 	{
 		"name": "sp_atma",
