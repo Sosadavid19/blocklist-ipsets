@@ -380,13 +380,13 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 104704,
+		"ips": 104192,
 		"common": 28
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1411328,
+		"ips": 1410560,
 		"common": 447
 	},
 	{
@@ -500,7 +500,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84417,
+		"ips": 84426,
 		"common": 4468
 	},
 	{
@@ -512,13 +512,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 127304,
-		"common": 571
+		"ips": 126667,
+		"common": 573
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1487286,
+		"ips": 1486518,
 		"common": 854
 	},
 	{
@@ -530,7 +530,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27041,
+		"ips": 27050,
 		"common": 4415
 	},
 	{
@@ -938,14 +938,20 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 1337,
-		"common": 1
+		"ips": 1336,
+		"common": 2
 	},
 	{
 		"name": "packetmail_emerging_ips",
 		"category": "reputation",
 		"ips": 116,
 		"common": 2
+	},
+	{
+		"name": "packetmail_mail",
+		"category": "reputation",
+		"ips": 105,
+		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -1233,25 +1239,25 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 14
+		"common": 11
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1716,
-		"common": 269
+		"ips": 1735,
+		"common": 272
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 12443,
+		"ips": 12453,
 		"common": 2216
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4138,
-		"common": 679
+		"ips": 4153,
+		"common": 681
 	},
 	{
 		"name": "sorbs_anonymizers",
