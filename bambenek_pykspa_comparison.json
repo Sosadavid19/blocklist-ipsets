@@ -9,13 +9,13 @@
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
 		"ips": 36751,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 51317,
-		"common": 2
+		"common": 4
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -33,31 +33,31 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9576009,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46331758,
-		"common": 2
+		"common": 4
 	},
 	{
 		"name": "hphosts_ats",
 		"category": "organizations",
 		"ips": 15957,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 19149,
-		"common": 2
+		"common": 4
 	},
 	{
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 11191,
-		"common": 2
+		"common": 4
 	},
 	{
 		"name": "hphosts_grm",
@@ -69,13 +69,13 @@
 		"name": "hphosts_mmt",
 		"category": "reputation",
 		"ips": 1160,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 14875,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "hphosts_wrz",
@@ -87,12 +87,54 @@
 		"name": "iblocklist_ads",
 		"category": "organizations",
 		"ips": 888645,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762691761,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346613099,
+		"common": 1
+	},
+	{
+		"name": "jigsaw_attacks",
+		"category": "attacks",
+		"ips": 27109,
+		"common": 1
+	},
+	{
+		"name": "jigsaw_malware",
+		"category": "malware",
+		"ips": 59614,
+		"common": 1
+	},
+	{
+		"name": "malwaredomainlist",
+		"category": "malware",
+		"ips": 1143,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 46117768,
 		"common": 1
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 1310,
+		"common": 2
+	},
+	{
+		"name": "threatcrowd",
+		"category": "malware",
+		"ips": 2594,
 		"common": 1
 	}
 ]
