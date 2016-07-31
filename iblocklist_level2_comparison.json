@@ -123,7 +123,7 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 245,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "bambenek_dircrypt",
@@ -194,8 +194,8 @@
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
-		"ips": 3888,
-		"common": 308
+		"ips": 3900,
+		"common": 314
 	},
 	{
 		"name": "bi_ftp_2_30d",
@@ -440,8 +440,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 7098,
-		"common": 398
+		"ips": 7252,
+		"common": 400
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -636,22 +636,28 @@
 		"common": 442
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 512
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 108800,
-		"common": 3905
+		"ips": 110336,
+		"common": 4161
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1398528,
-		"common": 63408
+		"ips": 1398784,
+		"common": 63663
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 512512,
-		"common": 18914
+		"ips": 513536,
+		"common": 19170
 	},
 	{
 		"name": "dshield_top_1000",
@@ -867,7 +873,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 666397828,
-		"common": 12926565
+		"common": 12927078
 	},
 	{
 		"name": "firehol_level2",
@@ -944,8 +950,8 @@
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
-		"ips": 19149,
-		"common": 573
+		"ips": 19076,
+		"common": 560
 	},
 	{
 		"name": "hphosts_exp",
