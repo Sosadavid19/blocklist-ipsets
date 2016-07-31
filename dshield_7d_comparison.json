@@ -278,7 +278,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10181,
+		"ips": 10185,
 		"common": 133
 	},
 	{
@@ -530,7 +530,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 246988,
+		"ips": 246987,
 		"common": 223
 	},
 	{
@@ -554,7 +554,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 54549,
+		"ips": 54557,
 		"common": 27
 	},
 	{
@@ -782,7 +782,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 139137,
+		"ips": 139136,
 		"common": 114256
 	},
 	{
@@ -794,7 +794,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576160,
+		"ips": 9576165,
 		"common": 1268
 	},
 	{
@@ -1262,8 +1262,8 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 1158,
-		"common": 149
+		"ips": 1119,
+		"common": 140
 	},
 	{
 		"name": "php_commenters",
@@ -1512,22 +1512,28 @@
 		"common": 3
 	},
 	{
+		"name": "ri_web_proxies",
+		"category": "anonymizers",
+		"ips": 141,
+		"common": 1
+	},
+	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 417,
-		"common": 2
+		"ips": 387,
+		"common": 3
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 5433,
+		"ips": 5422,
 		"common": 20
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1634,
-		"common": 8
+		"ips": 1625,
+		"common": 9
 	},
 	{
 		"name": "sblam",

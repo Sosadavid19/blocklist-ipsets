@@ -230,8 +230,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10181,
-		"common": 682
+		"ips": 10185,
+		"common": 681
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -464,7 +464,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 246988,
+		"ips": 246987,
 		"common": 4251
 	},
 	{
@@ -500,7 +500,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 54549,
+		"ips": 54557,
 		"common": 1683
 	},
 	{
@@ -692,7 +692,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 139137,
+		"ips": 139136,
 		"common": 5533
 	},
 	{
@@ -704,7 +704,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576160,
+		"ips": 9576165,
 		"common": 3843
 	},
 	{
@@ -1232,7 +1232,7 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 1158,
+		"ips": 1119,
 		"common": 11
 	},
 	{
@@ -1472,25 +1472,25 @@
 	{
 		"name": "ri_web_proxies",
 		"category": "anonymizers",
-		"ips": 142,
-		"common": 19
+		"ips": 141,
+		"common": 28
 	},
 	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 417,
-		"common": 68
+		"ips": 387,
+		"common": 63
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 5433,
-		"common": 1237
+		"ips": 5422,
+		"common": 1234
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1634,
+		"ips": 1625,
 		"common": 304
 	},
 	{
@@ -1743,6 +1743,12 @@
 		"name": "urlvir",
 		"category": "malware",
 		"ips": 87,
+		"common": 1
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 4,
 		"common": 1
 	},
 	{

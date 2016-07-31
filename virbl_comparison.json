@@ -1,21 +1,21 @@
 [
 	{
-		"name": "blocklist_net_ua",
-		"category": "abuse",
-		"ips": 10181,
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 23738,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 19816,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 139137,
+		"ips": 139136,
 		"common": 4
-	},
-	{
-		"name": "firehol_level4",
-		"category": "attacks",
-		"ips": 9576160,
-		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
@@ -42,9 +42,27 @@
 		"common": 1
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 38086,
+		"common": 1
+	},
+	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46117768,
+		"common": 1
+	},
+	{
+		"name": "sorbs_new_spam",
+		"category": "spam",
+		"ips": 114036,
+		"common": 1
+	},
+	{
+		"name": "sorbs_recent_spam",
+		"category": "spam",
+		"ips": 1126476,
 		"common": 1
 	}
 ]
