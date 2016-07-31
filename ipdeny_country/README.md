@@ -1,5 +1,5 @@
 
-The following list was automatically generated on Sat Jul 30 12:26:49 UTC 2016.
+The following list was automatically generated on Sun Jul 31 12:22:51 UTC 2016.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -307,7 +307,6 @@ name|info|type|entries|update|
 [id_country_ua](http://iplists.firehol.org/?ipset=id_country_ua)|Ukraine (UA) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|2645 subnets, 11663456 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_ug](http://iplists.firehol.org/?ipset=id_country_ug)|Uganda (UG) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|42 subnets, 287488 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_us](http://iplists.firehol.org/?ipset=id_country_us)|United States (US) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|15496 subnets, 1614240000 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
-[id_country_uy](http://iplists.firehol.org/?ipset=id_country_uy)|Uruguay (UY) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|46 subnets, 2439168 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_uy](http://iplists.firehol.org/?ipset=id_country_uy)|Uruguay (UY) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|45 subnets, 2438144 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_uz](http://iplists.firehol.org/?ipset=id_country_uz)|Uzbekistan (UZ) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|56 subnets, 225024 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_va](http://iplists.firehol.org/?ipset=id_country_va)|Vatican City (VA) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|6 subnets, 12800 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
