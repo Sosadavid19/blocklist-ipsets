@@ -302,7 +302,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38035,
+		"ips": 38030,
 		"common": 1
 	},
 	{
@@ -510,6 +510,12 @@
 		"common": 56
 	},
 	{
+		"name": "snort_ipfilter",
+		"category": "attacks",
+		"ips": 9959,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
 		"ips": 12473,
@@ -622,6 +628,12 @@
 		"category": "abuse",
 		"ips": 169620,
 		"common": 174
+	},
+	{
+		"name": "talosintel_ipfilter",
+		"category": "attacks",
+		"ips": 9959,
+		"common": 1
 	},
 	{
 		"name": "xroxy",
