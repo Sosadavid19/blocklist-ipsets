@@ -104,13 +104,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 144563,
+		"ips": 144543,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 78073,
+		"ips": 78079,
 		"common": 1
 	},
 	{
@@ -138,16 +138,28 @@
 		"common": 1
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 107008,
+		"common": 1
+	},
+	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1397760,
-		"common": 6
+		"ips": 1398016,
+		"common": 7
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 512000,
-		"common": 3
+		"ips": 512512,
+		"common": 4
 	},
 	{
 		"name": "dshield_top_1000",
@@ -170,25 +182,31 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 303257,
+		"ips": 303240,
 		"common": 3
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666397827,
-		"common": 133
+		"ips": 666397823,
+		"common": 134
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 130680,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1476117,
+		"ips": 1476425,
 		"common": 154
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576031,
+		"ips": 9576032,
 		"common": 10
 	},
 	{
@@ -428,7 +446,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 10937,
+		"ips": 10440,
 		"common": 131
 	},
 	{
