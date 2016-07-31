@@ -12,10 +12,22 @@
 		"common": 1
 	},
 	{
+		"name": "blueliv_crimeserver_last_30d",
+		"category": "attacks",
+		"ips": 36547,
+		"common": 1
+	},
+	{
+		"name": "blueliv_crimeserver_online",
+		"category": "attacks",
+		"ips": 51317,
+		"common": 1
+	},
+	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 126667,
-		"common": 5
+		"ips": 126668,
+		"common": 6
 	},
 	{
 		"name": "firehol_webserver",
@@ -27,7 +39,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 2627339,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "nixspam",
@@ -51,6 +63,6 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1121735,
-		"common": 1
+		"common": 2
 	}
 ]
