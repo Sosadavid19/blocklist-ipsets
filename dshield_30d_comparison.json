@@ -141,13 +141,13 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 8720,
-		"common": 1293
+		"common": 1292
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 3900,
-		"common": 767
+		"common": 766
 	},
 	{
 		"name": "bi_bruteforce_2_30d",
@@ -177,7 +177,7 @@
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
 		"ips": 5277,
-		"common": 1088
+		"common": 1087
 	},
 	{
 		"name": "bi_voip_2_30d",
@@ -212,13 +212,13 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4524,
-		"common": 94
+		"ips": 4537,
+		"common": 95
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5903,
+		"ips": 5910,
 		"common": 98
 	},
 	{
@@ -345,7 +345,7 @@
 		"name": "bm_tor",
 		"category": "anonymizers",
 		"ips": 6779,
-		"common": 178
+		"common": 177
 	},
 	{
 		"name": "botscout",
@@ -525,7 +525,7 @@
 		"name": "dm_tor",
 		"category": "anonymizers",
 		"ips": 6776,
-		"common": 178
+		"common": 177
 	},
 	{
 		"name": "dragon_http",
@@ -777,7 +777,7 @@
 		"name": "et_compromised",
 		"category": "attacks",
 		"ips": 968,
-		"common": 309
+		"common": 308
 	},
 	{
 		"name": "et_dshield",
@@ -795,7 +795,7 @@
 		"name": "et_tor",
 		"category": "anonymizers",
 		"ips": 6760,
-		"common": 177
+		"common": 176
 	},
 	{
 		"name": "feodo",
@@ -818,8 +818,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84329,
-		"common": 627
+		"ips": 84303,
+		"common": 626
 	},
 	{
 		"name": "firehol_level1",
@@ -830,14 +830,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 132973,
-		"common": 109437
+		"ips": 134508,
+		"common": 110972
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1476663,
-		"common": 1397506
+		"ips": 1476295,
+		"common": 1398016
 	},
 	{
 		"name": "firehol_level4",
@@ -848,7 +848,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27041,
+		"ips": 27015,
 		"common": 207
 	},
 	{
@@ -1089,7 +1089,7 @@
 		"name": "iblocklist_onion_router",
 		"category": "anonymizers",
 		"ips": 6691,
-		"common": 178
+		"common": 177
 	},
 	{
 		"name": "iblocklist_org_apple",
@@ -1227,13 +1227,13 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 1084
+		"common": 1083
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 2314
+		"common": 2312
 	},
 	{
 		"name": "lashback_ubl",
@@ -1656,9 +1656,15 @@
 		"common": 107
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1718,
+		"ips": 1715,
 		"common": 10
 	},
 	{
@@ -1760,7 +1766,7 @@
 	{
 		"name": "sslproxies",
 		"category": "anonymizers",
-		"ips": 85,
+		"ips": 86,
 		"common": 1
 	},
 	{
