@@ -116,25 +116,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 21524,
-		"common": 1202
+		"ips": 21366,
+		"common": 1193
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 747,
+		"ips": 753,
 		"common": 174
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17682,
-		"common": 1025
+		"ips": 17532,
+		"common": 1019
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1867,
+		"ips": 1870,
 		"common": 3
 	},
 	{
@@ -482,8 +482,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 129247,
-		"common": 1217
+		"ips": 129092,
+		"common": 1208
 	},
 	{
 		"name": "firehol_level3",
@@ -710,8 +710,8 @@
 	{
 		"name": "iblocklist_onion_router",
 		"category": "anonymizers",
-		"ips": 6691,
-		"common": 247
+		"ips": 6660,
+		"common": 244
 	},
 	{
 		"name": "iblocklist_org_blizzard",
@@ -812,8 +812,8 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 4258,
-		"common": 31
+		"ips": 4111,
+		"common": 32
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -862,6 +862,12 @@
 		"category": "attacks",
 		"ips": 9588,
 		"common": 37
+	},
+	{
+		"name": "openbl_1d",
+		"category": "attacks",
+		"ips": 177,
+		"common": 1
 	},
 	{
 		"name": "openbl_30d",

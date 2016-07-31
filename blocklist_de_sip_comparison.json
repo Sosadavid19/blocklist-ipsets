@@ -9,19 +9,25 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 1173,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 8720,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 3900,
-		"common": 7
+		"common": 8
+	},
+	{
+		"name": "bi_mail_2_30d",
+		"category": "attacks",
+		"ips": 2650,
+		"common": 1
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -38,8 +44,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 21524,
+		"ips": 21366,
 		"common": 71
+	},
+	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 818,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 17532,
+		"common": 1
 	},
 	{
 		"name": "darklist_de",
@@ -86,7 +104,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 129247,
+		"ips": 129092,
 		"common": 71
 	},
 	{
