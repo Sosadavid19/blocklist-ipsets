@@ -26,14 +26,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 126958,
-		"common": 6
+		"ips": 125429,
+		"common": 7
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46331721,
-		"common": 2
+		"common": 3
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 666661539,
+		"common": 1
 	},
 	{
 		"name": "lashback_ubl",
@@ -51,18 +57,18 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46117768,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 103430,
+		"ips": 107087,
 		"common": 1
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1121735,
+		"ips": 1118420,
 		"common": 2
 	}
 ]

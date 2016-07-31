@@ -590,7 +590,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 55136,
+		"ips": 55172,
 		"common": 1349
 	},
 	{
@@ -836,8 +836,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 126958,
-		"common": 6047
+		"ips": 125429,
+		"common": 6048
 	},
 	{
 		"name": "firehol_level3",
@@ -848,7 +848,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576760,
+		"ips": 9576759,
 		"common": 57101
 	},
 	{
@@ -896,7 +896,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 21545,
+		"ips": 21544,
 		"common": 682
 	},
 	{
@@ -1298,8 +1298,8 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 1060,
-		"common": 35
+		"ips": 1070,
+		"common": 37
 	},
 	{
 		"name": "palevo",
@@ -1502,7 +1502,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 1311,
+		"ips": 1312,
 		"common": 94
 	},
 	{
@@ -1652,8 +1652,8 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 103430,
-		"common": 5372
+		"ips": 107087,
+		"common": 5549
 	},
 	{
 		"name": "sorbs_noserver",
@@ -1664,8 +1664,8 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1121735,
-		"common": 54308
+		"ips": 1118420,
+		"common": 54201
 	},
 	{
 		"name": "sorbs_smtp",
@@ -1840,6 +1840,12 @@
 		"category": "reputation",
 		"ips": 19998,
 		"common": 556
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 7,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
