@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12204,
+		"ips": 12258,
 		"common": 17
 	},
 	{
@@ -171,7 +171,7 @@
 		"name": "cleanmx_viruses",
 		"category": "spam",
 		"ips": 12190,
-		"common": 126
+		"common": 127
 	},
 	{
 		"name": "cleantalk_1d",
@@ -236,7 +236,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6777,
+		"ips": 6779,
 		"common": 1
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84378,
+		"ips": 84436,
 		"common": 3
 	},
 	{
@@ -368,8 +368,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9578177,
-		"common": 174
+		"ips": 9578229,
+		"common": 175
 	},
 	{
 		"name": "firehol_proxies",
@@ -381,7 +381,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46331719,
-		"common": 839
+		"common": 840
 	},
 	{
 		"name": "fullbogons",
@@ -423,7 +423,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 19076,
-		"common": 744
+		"common": 745
 	},
 	{
 		"name": "hphosts_exp",
@@ -621,7 +621,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 2613126,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "malc0de",
@@ -634,12 +634,6 @@
 		"category": "malware",
 		"ips": 1143,
 		"common": 21
-	},
-	{
-		"name": "nixspam",
-		"category": "spam",
-		"ips": 38971,
-		"common": 1
 	},
 	{
 		"name": "nullsecure",
@@ -663,7 +657,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46117768,
-		"common": 193
+		"common": 194
 	},
 	{
 		"name": "ransomware_locky_c2",
