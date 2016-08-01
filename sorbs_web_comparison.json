@@ -722,7 +722,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 125901,
+		"ips": 125903,
 		"common": 2049
 	},
 	{
@@ -734,8 +734,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576961,
-		"common": 4403
+		"ips": 9576962,
+		"common": 4404
 	},
 	{
 		"name": "firehol_proxies",
@@ -1106,8 +1106,14 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 3586,
-		"common": 205
+		"ips": 3510,
+		"common": 197
+	},
+	{
+		"name": "iw_wormlist",
+		"category": "spam",
+		"ips": 2,
+		"common": 1
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -1172,7 +1178,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 183,
+		"ips": 185,
 		"common": 2
 	},
 	{
