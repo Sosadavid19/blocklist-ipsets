@@ -6,9 +6,21 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 22184,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 1929,
+		"common": 1
+	},
+	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12452,
+		"ips": 12448,
 		"common": 1
 	},
 	{
@@ -138,9 +150,15 @@
 		"common": 512
 	},
 	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 121442,
+		"common": 1
+	},
+	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9578397,
+		"ips": 9578394,
 		"common": 26
 	},
 	{
@@ -254,7 +272,7 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 3800,
+		"ips": 4061,
 		"common": 2
 	},
 	{
