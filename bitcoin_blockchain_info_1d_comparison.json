@@ -1,27 +1,15 @@
 [
 	{
-		"name": "alienvault_reputation",
-		"category": "reputation",
-		"ips": 21045,
-		"common": 1
-	},
-	{
 		"name": "bbcan177_ms3",
 		"category": "malware",
 		"ips": 30151694,
 		"common": 4
 	},
 	{
-		"name": "bds_atif",
-		"category": "reputation",
-		"ips": 5405,
-		"common": 1
-	},
-	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 285,
-		"common": 285
+		"ips": 286,
+		"common": 286
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
@@ -32,31 +20,31 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 571,
+		"ips": 572,
 		"common": 310
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4449,
-		"common": 296
+		"ips": 4454,
+		"common": 297
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5991,
+		"ips": 5993,
 		"common": 307
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25716,
+		"ips": 25719,
 		"common": 307
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10671,
+		"ips": 10676,
 		"common": 307
 	},
 	{
@@ -84,12 +72,6 @@
 		"common": 1
 	},
 	{
-		"name": "ciarmy",
-		"category": "reputation",
-		"ips": 7565,
-		"common": 1
-	},
-	{
 		"name": "cidr_report_bogons",
 		"category": "unroutable",
 		"ips": 604213832,
@@ -98,37 +80,37 @@
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 37771,
+		"ips": 37472,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 147726,
+		"ips": 147799,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 83134,
+		"ips": 83186,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 43382,
+		"ips": 42975,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 114090,
+		"ips": 114194,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 92502,
+		"ips": 92618,
 		"common": 1
 	},
 	{
@@ -182,13 +164,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 47012,
+		"ips": 46684,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 306903,
+		"ips": 306989,
 		"common": 1
 	},
 	{
@@ -212,13 +194,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1498255,
-		"common": 14
+		"ips": 1498354,
+		"common": 13
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9578749,
+		"ips": 9578892,
 		"common": 2
 	},
 	{
@@ -262,12 +244,6 @@
 		"category": "unroutable",
 		"ips": 666661539,
 		"common": 12
-	},
-	{
-		"name": "iblocklist_ciarmy_malicious",
-		"category": "reputation",
-		"ips": 6768,
-		"common": 1
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -458,7 +434,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 7323,
+		"ips": 7346,
 		"common": 1
 	},
 	{
@@ -483,12 +459,6 @@
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
 		"ips": 1533,
-		"common": 1
-	},
-	{
-		"name": "turris_greylist",
-		"category": "reputation",
-		"ips": 19998,
 		"common": 1
 	}
 ]
