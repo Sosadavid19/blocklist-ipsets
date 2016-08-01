@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 20196,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "atlas_attacks",
@@ -38,13 +38,13 @@
 	{
 		"name": "atlas_scans_30d",
 		"category": "attacks",
-		"ips": 97,
+		"ips": 94,
 		"common": 10
 	},
 	{
 		"name": "atlas_scans_7d",
 		"category": "attacks",
-		"ips": 24,
+		"ips": 23,
 		"common": 10
 	},
 	{
@@ -60,40 +60,76 @@
 		"common": 2
 	},
 	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 1189,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 8705,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 3908,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh_2_30d",
+		"category": "attacks",
+		"ips": 5261,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 20125,
 		"common": 1
 	},
 	{
-		"name": "blocklist_de_apache",
+		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 9480,
+		"ips": 1850,
+		"common": 1
+	},
+	{
+		"name": "bruteforceblocker",
+		"category": "attacks",
+		"ips": 988,
+		"common": 1
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 104448,
 		"common": 1
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1417728,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 520704,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 126066,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1493331,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
@@ -114,6 +150,12 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346613099,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
@@ -126,15 +168,33 @@
 		"common": 1
 	},
 	{
+		"name": "openbl_1d",
+		"category": "attacks",
+		"ips": 185,
+		"common": 1
+	},
+	{
+		"name": "openbl_all",
+		"category": "attacks",
+		"ips": 120817,
+		"common": 1
+	},
+	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46117768,
 		"common": 2
 	},
 	{
-		"name": "sorbs_dul",
-		"category": "spam",
-		"ips": 373342665,
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 19998,
+		"common": 1
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 17919,
 		"common": 1
 	}
 ]
