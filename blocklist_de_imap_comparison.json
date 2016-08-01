@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 20494,
-		"common": 70
+		"common": 71
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -26,14 +26,14 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1146,
-		"common": 77
+		"ips": 1123,
+		"common": 79
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 8705,
-		"common": 176
+		"common": 177
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -51,7 +51,7 @@
 		"name": "bi_mail_2_30d",
 		"category": "attacks",
 		"ips": 2650,
-		"common": 169
+		"common": 170
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -62,14 +62,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 20403,
-		"common": 853
+		"ips": 20361,
+		"common": 854
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16644,
-		"common": 853
+		"ips": 16609,
+		"common": 854
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -126,57 +126,45 @@
 		"common": 2
 	},
 	{
-		"name": "cleantalk",
-		"category": "abuse",
-		"ips": 3460,
-		"common": 2
-	},
-	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 36239,
+		"ips": 36326,
 		"common": 10
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 146501,
+		"ips": 146532,
 		"common": 19
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 81362,
+		"ips": 81402,
 		"common": 15
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 77192,
-		"common": 2
-	},
-	{
-		"name": "cleantalk_updated",
-		"category": "abuse",
-		"ips": 2000,
+		"ips": 77185,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 41571,
+		"ips": 41716,
 		"common": 10
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 111420,
+		"ips": 111478,
 		"common": 26
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 89714,
+		"ips": 89773,
 		"common": 24
 	},
 	{
@@ -218,7 +206,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 303494,
+		"ips": 303493,
 		"common": 3
 	},
 	{
@@ -231,13 +219,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1422080,
-		"common": 56
+		"common": 55
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 524544,
-		"common": 35
+		"common": 34
 	},
 	{
 		"name": "et_block",
@@ -260,13 +248,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 44728,
+		"ips": 44838,
 		"common": 11
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 306011,
+		"ips": 306042,
 		"common": 36
 	},
 	{
@@ -278,19 +266,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 122735,
-		"common": 853
+		"ips": 122697,
+		"common": 854
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1495098,
-		"common": 103
+		"common": 102
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9577593,
+		"ips": 9577594,
 		"common": 25
 	},
 	{
@@ -315,7 +303,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1747,
-		"common": 18
+		"common": 19
 	},
 	{
 		"name": "haley_ssh",
@@ -357,7 +345,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 35
+		"common": 34
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -435,7 +423,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691761,
-		"common": 19
+		"common": 20
 	},
 	{
 		"name": "iblocklist_level2",
@@ -506,7 +494,7 @@
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
-		"ips": 2627339,
+		"ips": 2613126,
 		"common": 28
 	},
 	{
@@ -518,7 +506,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37091,
+		"ips": 37035,
 		"common": 4
 	},
 	{
@@ -675,7 +663,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6096300,
-		"common": 36
+		"common": 38
 	},
 	{
 		"name": "sp_anti_infringement",
@@ -759,6 +747,6 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 19998,
-		"common": 52
+		"common": 53
 	}
 ]
