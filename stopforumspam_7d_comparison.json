@@ -32,8 +32,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1114,
-		"common": 115
+		"ips": 1111,
+		"common": 116
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -116,8 +116,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 22296,
-		"common": 637
+		"ips": 22342,
+		"common": 639
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -128,31 +128,37 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 512,
+		"ips": 511,
 		"common": 264
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 236,
+		"ips": 242,
 		"common": 3
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 376,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 869,
+		"ips": 867,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18418,
-		"common": 360
+		"ips": 18451,
+		"common": 361
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1947,
+		"ips": 1954,
 		"common": 5
 	},
 	{
@@ -206,26 +212,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 41,
-		"common": 23
+		"ips": 51,
+		"common": 27
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1200,
-		"common": 446
+		"ips": 1212,
+		"common": 456
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19911,
-		"common": 4696
+		"ips": 19912,
+		"common": 4695
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6162,
-		"common": 2306
+		"ips": 6152,
+		"common": 2300
 	},
 	{
 		"name": "bruteforceblocker",
@@ -422,7 +428,7 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1423104,
+		"ips": 1422592,
 		"common": 285
 	},
 	{
@@ -500,8 +506,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 46691,
-		"common": 7302
+		"ips": 46700,
+		"common": 7304
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -524,20 +530,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 121298,
-		"common": 677
+		"ips": 121344,
+		"common": 679
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1497543,
+		"ips": 1497031,
 		"common": 1251
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9578499,
-		"common": 4874
+		"ips": 9578500,
+		"common": 4873
 	},
 	{
 		"name": "firehol_proxies",
@@ -1370,7 +1376,7 @@
 	{
 		"name": "taichung",
 		"category": "attacks",
-		"ips": 8924,
+		"ips": 8843,
 		"common": 7
 	},
 	{
