@@ -110,8 +110,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 234,
-		"common": 22
+		"ips": 238,
+		"common": 21
 	},
 	{
 		"name": "bambenek_dircrypt",
@@ -320,7 +320,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13647,
+		"ips": 13651,
 		"common": 504
 	},
 	{
@@ -428,8 +428,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 7689,
-		"common": 326
+		"ips": 7808,
+		"common": 330
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -624,9 +624,15 @@
 		"common": 442
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 256
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 88576,
+		"ips": 88320,
 		"common": 4112
 	},
 	{
@@ -638,7 +644,7 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 523776,
+		"ips": 524544,
 		"common": 18929
 	},
 	{
@@ -854,8 +860,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666385278,
-		"common": 12926567
+		"ips": 666385026,
+		"common": 12926822
 	},
 	{
 		"name": "firehol_level2",
@@ -866,8 +872,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1503109,
-		"common": 64839
+		"ips": 1503218,
+		"common": 64843
 	},
 	{
 		"name": "firehol_level4",
