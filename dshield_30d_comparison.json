@@ -110,7 +110,7 @@
 	{
 		"name": "bambenek_tinba",
 		"category": "malware",
-		"ips": 22,
+		"ips": 21,
 		"common": 1
 	},
 	{
@@ -818,7 +818,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84455,
+		"ips": 84456,
 		"common": 646
 	},
 	{
@@ -848,7 +848,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27117,
+		"ips": 27118,
 		"common": 208
 	},
 	{
@@ -1506,21 +1506,27 @@
 		"common": 48
 	},
 	{
+		"name": "proxyspy",
+		"category": "anonymizers",
+		"ips": 300,
+		"common": 1
+	},
+	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 1061,
-		"common": 5
+		"ips": 1049,
+		"common": 6
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 7226,
+		"ips": 7221,
 		"common": 55
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 2930,
+		"ips": 2929,
 		"common": 18
 	},
 	{
@@ -1646,19 +1652,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1688,
+		"ips": 1694,
 		"common": 9
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 12561,
+		"ips": 12564,
 		"common": 87
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4161,
+		"ips": 4137,
 		"common": 20
 	},
 	{
@@ -1784,8 +1790,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4794,
-		"common": 90
+		"ips": 4787,
+		"common": 89
 	},
 	{
 		"name": "stopforumspam_30d",
