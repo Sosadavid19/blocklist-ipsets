@@ -158,13 +158,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 22851,
+		"ips": 22915,
 		"common": 218
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9517,
+		"ips": 9522,
 		"common": 13
 	},
 	{
@@ -176,13 +176,13 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 888,
+		"ips": 890,
 		"common": 17
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18863,
+		"ips": 18912,
 		"common": 18
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1967,
+		"ips": 1974,
 		"common": 157
 	},
 	{
@@ -288,51 +288,63 @@
 		"common": 8
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 3421,
+		"common": 3
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 38693,
+		"ips": 38966,
 		"common": 51
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 148071,
+		"ips": 148099,
 		"common": 138
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 83948,
+		"ips": 84036,
 		"common": 90
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 76368,
+		"ips": 76316,
 		"common": 47
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 18946,
+		"ips": 18952,
 		"common": 6
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 44582,
+		"ips": 44945,
 		"common": 57
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 115203,
+		"ips": 115354,
 		"common": 119
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 93687,
+		"ips": 93831,
 		"common": 96
 	},
 	{
@@ -470,13 +482,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 48238,
+		"ips": 48575,
 		"common": 62
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 307397,
+		"ips": 307448,
 		"common": 169
 	},
 	{
@@ -494,7 +506,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 116450,
+		"ips": 116514,
 		"common": 473
 	},
 	{
@@ -1040,7 +1052,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 7632,
+		"ips": 7638,
 		"common": 2
 	},
 	{
