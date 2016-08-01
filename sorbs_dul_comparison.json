@@ -33,6 +33,12 @@
 		"name": "atlas_fastflux_30d",
 		"category": "attacks",
 		"ips": 57,
+		"common": 2
+	},
+	{
+		"name": "atlas_fastflux_7d",
+		"category": "attacks",
+		"ips": 31,
 		"common": 1
 	},
 	{
@@ -242,8 +248,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10848,
-		"common": 450
+		"ips": 10905,
+		"common": 461
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -536,8 +542,8 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 55171,
-		"common": 13082
+		"ips": 55211,
+		"common": 13087
 	},
 	{
 		"name": "dronebl_worms_bots",
@@ -776,13 +782,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666393990,
+		"ips": 666393991,
 		"common": 110103
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 127253,
+		"ips": 127254,
 		"common": 9243
 	},
 	{
@@ -794,8 +800,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576846,
-		"common": 23857
+		"ips": 9576901,
+		"common": 23868
 	},
 	{
 		"name": "firehol_proxies",
@@ -1149,7 +1155,7 @@
 		"name": "iblocklist_yoyo_adservers",
 		"category": "organizations",
 		"ips": 12331,
-		"common": 90
+		"common": 91
 	},
 	{
 		"name": "ipblacklistcloud_recent",
@@ -1203,7 +1209,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 2627339,
-		"common": 434016
+		"common": 434017
 	},
 	{
 		"name": "malc0de",
@@ -1550,7 +1556,7 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 11272,
+		"ips": 11273,
 		"common": 1076
 	},
 	{
@@ -1670,8 +1676,8 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 107087,
-		"common": 14753
+		"ips": 79683,
+		"common": 10524
 	},
 	{
 		"name": "sorbs_noserver",
@@ -1682,8 +1688,8 @@
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1118420,
-		"common": 184059
+		"ips": 1117814,
+		"common": 183952
 	},
 	{
 		"name": "sorbs_smtp",
@@ -1695,7 +1701,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6096302,
-		"common": 1659906
+		"common": 1659908
 	},
 	{
 		"name": "sorbs_zombie",
@@ -1911,7 +1917,7 @@
 		"name": "yoyo_adservers",
 		"category": "organizations",
 		"ips": 13015,
-		"common": 94
+		"common": 95
 	},
 	{
 		"name": "zeus",
