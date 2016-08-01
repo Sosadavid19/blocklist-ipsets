@@ -122,25 +122,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4416,
+		"ips": 4414,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5942,
-		"common": 6
+		"ips": 5900,
+		"common": 5
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25760,
+		"ips": 25738,
 		"common": 41
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10659,
+		"ips": 10640,
 		"common": 10
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11376,
+		"ips": 11380,
 		"common": 328
 	},
 	{
@@ -308,8 +308,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 7056,
-		"common": 75
+		"ips": 7183,
+		"common": 76
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -492,22 +492,28 @@
 		"common": 5755
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 4
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 103424,
-		"common": 623
+		"ips": 103680,
+		"common": 626
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1421056,
-		"common": 9632
+		"common": 9631
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 524544,
-		"common": 3751
+		"ips": 525056,
+		"common": 3749
 	},
 	{
 		"name": "dshield_top_1000",
@@ -669,24 +675,24 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 666393988,
-		"common": 869
+		"common": 873
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 125204,
-		"common": 3370
+		"ips": 125463,
+		"common": 3373
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1493589,
+		"ips": 1493709,
 		"common": 11208
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9577368,
+		"ips": 9577367,
 		"common": 5409
 	},
 	{
