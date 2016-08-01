@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10919,
+		"ips": 10920,
 		"common": 42
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 55211,
+		"ips": 55225,
 		"common": 1
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576907,
+		"ips": 9576908,
 		"common": 146
 	},
 	{
@@ -466,6 +466,12 @@
 		"category": "malware",
 		"ips": 1143,
 		"common": 10
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 36686,
+		"common": 1
 	},
 	{
 		"name": "nullsecure",
