@@ -164,8 +164,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1147,
-		"common": 100
+		"ips": 1153,
+		"common": 102
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -212,7 +212,7 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 283,
+		"ips": 284,
 		"common": 16
 	},
 	{
@@ -230,32 +230,32 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 573,
+		"ips": 572,
 		"common": 31
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4414,
-		"common": 268
+		"ips": 4065,
+		"common": 246
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5900,
+		"ips": 5934,
 		"common": 296
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25738,
+		"ips": 25752,
 		"common": 596
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10640,
-		"common": 388
+		"ips": 10651,
+		"common": 387
 	},
 	{
 		"name": "blocklist_de",
@@ -366,28 +366,22 @@
 		"common": 260
 	},
 	{
-		"name": "botscout",
-		"category": "abuse",
-		"ips": 71,
-		"common": 1
-	},
-	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1170,
-		"common": 41
+		"ips": 1156,
+		"common": 39
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19919,
+		"ips": 19934,
 		"common": 544
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6145,
-		"common": 214
+		"ips": 6152,
+		"common": 213
 	},
 	{
 		"name": "botvrij_dst",
@@ -830,8 +824,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 44540,
-		"common": 1209
+		"ips": 44533,
+		"common": 1207
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -860,13 +854,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1494604,
+		"ips": 1494630,
 		"common": 66849
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9577427,
+		"ips": 9577442,
 		"common": 2537724
 	},
 	{
@@ -1418,7 +1412,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 120826,
+		"ips": 120841,
 		"common": 5305
 	},
 	{
@@ -1556,26 +1550,26 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1082,
-		"common": 91
+		"ips": 1096,
+		"common": 86
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2365,
-		"common": 164
+		"ips": 2398,
+		"common": 163
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 9970,
+		"ips": 9975,
 		"common": 527
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 5101,
-		"common": 321
+		"ips": 5120,
+		"common": 322
 	},
 	{
 		"name": "proxyrss",
@@ -1626,9 +1620,15 @@
 		"common": 159
 	},
 	{
+		"name": "proxz",
+		"category": "anonymizers",
+		"ips": 24,
+		"common": 1
+	},
+	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 257,
+		"ips": 255,
 		"common": 21
 	},
 	{
@@ -1640,8 +1640,8 @@
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 934,
-		"common": 73
+		"ips": 937,
+		"common": 72
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -1952,7 +1952,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 6369,
+		"ips": 6399,
 		"common": 143
 	},
 	{
