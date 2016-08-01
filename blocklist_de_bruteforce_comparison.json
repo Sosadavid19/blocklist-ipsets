@@ -38,14 +38,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 21649,
-		"common": 236
+		"ips": 21677,
+		"common": 238
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9481,
-		"common": 236
+		"ips": 9482,
+		"common": 238
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12258,
+		"ips": 12248,
 		"common": 122
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84443,
+		"ips": 84450,
 		"common": 1
 	},
 	{
@@ -260,8 +260,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 121420,
-		"common": 236
+		"ips": 121446,
+		"common": 238
 	},
 	{
 		"name": "firehol_level3",
@@ -272,13 +272,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9578229,
+		"ips": 9578222,
 		"common": 128
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27076,
+		"ips": 27083,
 		"common": 1
 	},
 	{
@@ -351,7 +351,13 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 34
+		"common": 35
+	},
+	{
+		"name": "iblocklist_pedophiles",
+		"category": "reputation",
+		"ips": 836584,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -489,7 +495,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373342665,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -542,7 +548,7 @@
 	{
 		"name": "stopforumspam_30d",
 		"category": "abuse",
-		"ips": 68570,
+		"ips": 68471,
 		"common": 5
 	},
 	{
@@ -560,7 +566,7 @@
 	{
 		"name": "stopforumspam_90d",
 		"category": "abuse",
-		"ips": 169620,
+		"ips": 169555,
 		"common": 7
 	},
 	{
