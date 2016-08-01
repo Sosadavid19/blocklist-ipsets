@@ -1,17 +1,5 @@
 [
 	{
-		"name": "blocklist_de",
-		"category": "attacks",
-		"ips": 20353,
-		"common": 1
-	},
-	{
-		"name": "blocklist_de_mail",
-		"category": "attacks",
-		"ips": 16623,
-		"common": 1
-	},
-	{
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
 		"ips": 36664,
@@ -27,7 +15,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 125243,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "firehol_webserver",
@@ -45,24 +33,12 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 2627339,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46117768,
 		"common": 3
-	},
-	{
-		"name": "sorbs_new_spam",
-		"category": "spam",
-		"ips": 81558,
-		"common": 1
-	},
-	{
-		"name": "sorbs_recent_spam",
-		"category": "spam",
-		"ips": 1114632,
-		"common": 1
 	}
 ]
