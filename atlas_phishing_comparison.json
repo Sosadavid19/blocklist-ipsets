@@ -2,19 +2,19 @@
 	{
 		"name": "atlas_phishing_2d",
 		"category": "attacks",
-		"ips": 11,
+		"ips": 12,
 		"common": 10
 	},
 	{
 		"name": "atlas_phishing_30d",
 		"category": "attacks",
-		"ips": 42,
+		"ips": 39,
 		"common": 10
 	},
 	{
 		"name": "atlas_phishing_7d",
 		"category": "attacks",
-		"ips": 17,
+		"ips": 16,
 		"common": 10
 	},
 	{
@@ -33,7 +33,7 @@
 		"name": "blueliv_crimeserver_last_1d",
 		"category": "attacks",
 		"ips": 2877,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
@@ -69,13 +69,13 @@
 		"name": "cleanmx_viruses",
 		"category": "spam",
 		"ips": 12190,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9576900,
-		"common": 3
+		"ips": 9576908,
+		"common": 4
 	},
 	{
 		"name": "firehol_webserver",
@@ -102,10 +102,16 @@
 		"common": 10
 	},
 	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 666661539,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691761,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
