@@ -14,14 +14,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 122205,
-		"common": 12
+		"ips": 122208,
+		"common": 15
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46331719,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -36,9 +36,15 @@
 		"common": 1
 	},
 	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 2613126,
+		"common": 1
+	},
+	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46117768,
-		"common": 3
+		"common": 4
 	}
 ]
