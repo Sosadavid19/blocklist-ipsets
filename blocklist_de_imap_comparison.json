@@ -27,7 +27,7 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 1120,
-		"common": 80
+		"common": 78
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -80,8 +80,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11711,
-		"common": 11
+		"ips": 5854,
+		"common": 3
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -104,7 +104,7 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19910,
+		"ips": 19915,
 		"common": 1
 	},
 	{
@@ -132,45 +132,57 @@
 		"common": 2
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 3488,
+		"common": 4
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 36715,
-		"common": 10
+		"ips": 36984,
+		"common": 11
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 146715,
+		"ips": 146793,
 		"common": 19
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 81686,
+		"ips": 81793,
 		"common": 16
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 77129,
+		"ips": 77125,
 		"common": 2
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 4
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 42235,
-		"common": 10
+		"ips": 42602,
+		"common": 13
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 111885,
+		"ips": 112000,
 		"common": 27
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 90218,
+		"ips": 90356,
 		"common": 25
 	},
 	{
@@ -254,13 +266,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 45447,
-		"common": 11
+		"ips": 45782,
+		"common": 14
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 306244,
+		"ips": 306319,
 		"common": 36
 	},
 	{
@@ -284,8 +296,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9577706,
-		"common": 26
+		"ips": 9572362,
+		"common": 18
 	},
 	{
 		"name": "firehol_webserver",
@@ -482,8 +494,8 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 3389,
-		"common": 4
+		"ips": 3368,
+		"common": 3
 	},
 	{
 		"name": "jigsaw_attacks",
