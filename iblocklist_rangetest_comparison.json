@@ -188,25 +188,25 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 572,
+		"ips": 571,
 		"common": 4
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4306,
+		"ips": 4315,
 		"common": 35
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5965,
+		"ips": 5968,
 		"common": 38
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25750,
+		"ips": 25749,
 		"common": 82
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 55429,
+		"ips": 55455,
 		"common": 49
 	},
 	{
@@ -680,7 +680,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84424,
+		"ips": 84421,
 		"common": 2357
 	},
 	{
@@ -692,8 +692,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 120393,
-		"common": 819
+		"ips": 120395,
+		"common": 820
 	},
 	{
 		"name": "firehol_level3",
@@ -1214,26 +1214,26 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1098,
-		"common": 3
+		"ips": 1144,
+		"common": 1
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2391,
+		"ips": 2492,
 		"common": 12
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 9938,
+		"ips": 9936,
 		"common": 42
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 5112,
-		"common": 17
+		"ips": 5084,
+		"common": 16
 	},
 	{
 		"name": "proxyrss",
@@ -1286,19 +1286,19 @@
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 258,
+		"ips": 273,
 		"common": 3
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2367,
+		"ips": 2370,
 		"common": 17
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 932,
+		"ips": 928,
 		"common": 10
 	},
 	{
@@ -1388,14 +1388,14 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 80675,
+		"ips": 78270,
 		"common": 101
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1115506,
-		"common": 860
+		"ips": 1116001,
+		"common": 863
 	},
 	{
 		"name": "sorbs_smtp",
@@ -1526,25 +1526,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1084,
+		"ips": 1083,
 		"common": 17
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1149,
+		"ips": 1148,
 		"common": 17
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 3002,
+		"ips": 3003,
 		"common": 20
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1535,
+		"ips": 1531,
 		"common": 18
 	},
 	{
@@ -1564,6 +1564,12 @@
 		"category": "malware",
 		"ips": 87,
 		"common": 2
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 17,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
