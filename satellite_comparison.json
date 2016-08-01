@@ -8,19 +8,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 22993,
+		"ips": 23000,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1991,
+		"ips": 2009,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13718,
+		"ips": 13693,
 		"common": 1
 	},
 	{
@@ -116,7 +116,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 55913,
+		"ips": 55917,
 		"common": 5
 	},
 	{
@@ -152,13 +152,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 113006,
+		"ips": 113010,
 		"common": 1
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9579637,
+		"ips": 9579615,
 		"common": 26
 	},
 	{
@@ -296,8 +296,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38051,
-		"common": 6
+		"ips": 38111,
+		"common": 5
 	},
 	{
 		"name": "nullsecure",
@@ -312,16 +312,28 @@
 		"common": 12
 	},
 	{
+		"name": "proxylists",
+		"category": "anonymizers",
+		"ips": 1179,
+		"common": 1
+	},
+	{
+		"name": "proxylists_1d",
+		"category": "anonymizers",
+		"ips": 2465,
+		"common": 1
+	},
+	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 9942,
-		"common": 2
+		"ips": 9953,
+		"common": 3
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 5096,
-		"common": 2
+		"ips": 5107,
+		"common": 3
 	},
 	{
 		"name": "proxyrss_30d",
