@@ -60,6 +60,12 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 11749,
+		"common": 1
+	},
+	{
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
 		"ips": 36664,
@@ -182,7 +188,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6762,
+		"ips": 6760,
 		"common": 1
 	},
 	{
@@ -428,7 +434,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84366,
+		"ips": 84417,
 		"common": 1
 	},
 	{
@@ -440,7 +446,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 120429,
+		"ips": 120340,
 		"common": 9
 	},
 	{
@@ -452,8 +458,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9572362,
-		"common": 30
+		"ips": 9577754,
+		"common": 31
 	},
 	{
 		"name": "firehol_webserver",
