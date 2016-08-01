@@ -723,7 +723,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 119763,
-		"common": 2446
+		"common": 2447
 	},
 	{
 		"name": "firehol_level3",
@@ -1724,13 +1724,13 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1079,
+		"ips": 1080,
 		"common": 17
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1145,
+		"ips": 1146,
 		"common": 20
 	},
 	{
@@ -1742,7 +1742,7 @@
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1529,
+		"ips": 1531,
 		"common": 26
 	},
 	{
@@ -1761,6 +1761,12 @@
 		"name": "urlvir",
 		"category": "malware",
 		"ips": 87,
+		"common": 1
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 18,
 		"common": 1
 	},
 	{
