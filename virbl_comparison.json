@@ -14,8 +14,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 122697,
-		"common": 10
+		"ips": 121408,
+		"common": 12
 	},
 	{
 		"name": "firehol_webserver",
@@ -27,6 +27,12 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 139023007,
 		"common": 1
 	},
 	{
