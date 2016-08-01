@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13122,
+		"ips": 13284,
 		"common": 12
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 55704,
+		"ips": 55710,
 		"common": 1
 	},
 	{
@@ -326,7 +326,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9579071,
+		"ips": 9579227,
 		"common": 134
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "fullbogons",
 		"category": "unroutable",
-		"ips": 642590760,
+		"ips": 642582056,
 		"common": 1
 	},
 	{
@@ -550,6 +550,12 @@
 		"category": "malware",
 		"ips": 1143,
 		"common": 4
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 38981,
+		"common": 1
 	},
 	{
 		"name": "nt_ssh_7d",
