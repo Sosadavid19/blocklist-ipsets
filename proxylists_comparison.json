@@ -20,7 +20,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1172,
+		"ips": 1177,
 		"common": 20
 	},
 	{
@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13575,
+		"ips": 13576,
 		"common": 52
 	},
 	{
@@ -98,14 +98,14 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 37,
-		"common": 2
+		"ips": 38,
+		"common": 3
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
 		"ips": 1230,
-		"common": 42
+		"common": 43
 	},
 	{
 		"name": "botscout_30d",
@@ -116,8 +116,8 @@
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6123,
-		"common": 122
+		"ips": 6129,
+		"common": 123
 	},
 	{
 		"name": "bruteforceblocker",
@@ -266,7 +266,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 49577,
+		"ips": 49576,
 		"common": 588
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84443,
+		"ips": 84450,
 		"common": 1174
 	},
 	{
@@ -296,13 +296,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9579471,
+		"ips": 9579473,
 		"common": 277
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27109,
+		"ips": 27116,
 		"common": 1175
 	},
 	{
@@ -774,21 +774,27 @@
 		"common": 15
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1679,
+		"ips": 1687,
 		"common": 24
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 12554,
+		"ips": 12561,
 		"common": 63
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4151,
+		"ips": 4159,
 		"common": 31
 	},
 	{
@@ -842,14 +848,14 @@
 	{
 		"name": "sslproxies",
 		"category": "anonymizers",
-		"ips": 90,
-		"common": 21
+		"ips": 91,
+		"common": 22
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 126,
-		"common": 29
+		"ips": 125,
+		"common": 28
 	},
 	{
 		"name": "sslproxies_30d",

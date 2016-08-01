@@ -62,8 +62,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1172,
-		"common": 495
+		"ips": 1177,
+		"common": 497
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -140,8 +140,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13575,
-		"common": 75
+		"ips": 13576,
+		"common": 76
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -174,16 +174,28 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 38,
+		"common": 1
+	},
+	{
+		"name": "botscout_1d",
+		"category": "abuse",
+		"ips": 1230,
+		"common": 1
+	},
+	{
 		"name": "botscout_30d",
 		"category": "abuse",
 		"ips": 19901,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6123,
-		"common": 1
+		"ips": 6129,
+		"common": 2
 	},
 	{
 		"name": "bruteforceblocker",
@@ -422,7 +434,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 49577,
+		"ips": 49576,
 		"common": 19
 	},
 	{
@@ -434,7 +446,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84443,
+		"ips": 84450,
 		"common": 2
 	},
 	{
@@ -458,8 +470,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9579471,
-		"common": 245
+		"ips": 9579473,
+		"common": 247
 	},
 	{
 		"name": "firehol_webserver",
@@ -674,8 +686,8 @@
 	{
 		"name": "nt_ssh_7d",
 		"category": "attacks",
-		"ips": 1941,
-		"common": 111
+		"ips": 1983,
+		"common": 114
 	},
 	{
 		"name": "nullsecure",
