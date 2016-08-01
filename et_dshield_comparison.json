@@ -57,7 +57,7 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 1113,
-		"common": 51
+		"common": 52
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -92,44 +92,44 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4444,
+		"ips": 4449,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5983,
+		"ips": 5991,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25729,
+		"ips": 25716,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10663,
+		"ips": 10671,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 22563,
-		"common": 48
+		"ips": 22657,
+		"common": 49
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9494,
+		"ips": 9501,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1969,
-		"common": 45
+		"ips": 1976,
+		"common": 46
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -194,13 +194,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19918,
+		"ips": 19924,
 		"common": 2
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6146,
+		"ips": 6136,
 		"common": 1
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 525824,
+		"ips": 523776,
 		"common": 5120
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 47011,
+		"ips": 47012,
 		"common": 4
 	},
 	{
@@ -404,7 +404,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84387,
+		"ips": 84385,
 		"common": 2
 	},
 	{
@@ -416,7 +416,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 119766,
+		"ips": 119859,
 		"common": 1796
 	},
 	{
@@ -428,13 +428,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9578724,
+		"ips": 9578730,
 		"common": 115
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27061,
+		"ips": 27059,
 		"common": 1
 	},
 	{
@@ -549,6 +549,12 @@
 		"name": "maxmind_proxy_fraud",
 		"category": "anonymizers",
 		"ips": 498,
+		"common": 1
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 39296,
 		"common": 1
 	},
 	{
