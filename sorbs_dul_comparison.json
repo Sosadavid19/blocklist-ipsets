@@ -248,8 +248,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13482,
-		"common": 757
+		"ips": 13386,
+		"common": 748
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -512,7 +512,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 303488,
+		"ips": 303486,
 		"common": 49741
 	},
 	{
@@ -794,8 +794,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9579416,
-		"common": 24174
+		"ips": 9579333,
+		"common": 24165
 	},
 	{
 		"name": "firehol_proxies",
@@ -842,7 +842,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 21547,
+		"ips": 21548,
 		"common": 1606
 	},
 	{
@@ -1512,22 +1512,28 @@
 		"common": 175
 	},
 	{
+		"name": "proxz",
+		"category": "anonymizers",
+		"ips": 27,
+		"common": 1
+	},
+	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 273,
-		"common": 7
+		"ips": 274,
+		"common": 8
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2375,
-		"common": 103
+		"ips": 2376,
+		"common": 104
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 934,
-		"common": 27
+		"ips": 941,
+		"common": 28
 	},
 	{
 		"name": "pushing_inertia_blocklist",
