@@ -116,7 +116,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11594,
+		"ips": 11590,
 		"common": 71
 	},
 	{
@@ -458,7 +458,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 123221,
+		"ips": 123222,
 		"common": 1074
 	},
 	{
@@ -470,8 +470,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9577598,
-		"common": 211
+		"ips": 9577595,
+		"common": 212
 	},
 	{
 		"name": "firehol_proxies",
@@ -722,8 +722,14 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 3392,
-		"common": 553
+		"ips": 3389,
+		"common": 574
+	},
+	{
+		"name": "iw_wormlist",
+		"category": "spam",
+		"ips": 3,
+		"common": 1
 	},
 	{
 		"name": "jigsaw_attacks",
