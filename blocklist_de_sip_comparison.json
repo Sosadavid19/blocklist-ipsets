@@ -62,8 +62,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 20423,
-		"common": 77
+		"ips": 20380,
+		"common": 78
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -90,6 +90,12 @@
 		"common": 3
 	},
 	{
+		"name": "dragon_http",
+		"category": "attacks",
+		"ips": 59136,
+		"common": 1
+	},
+	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 303496,
@@ -111,7 +117,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1419008,
-		"common": 29
+		"common": 30
 	},
 	{
 		"name": "dshield_7d",
@@ -152,14 +158,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 127903,
-		"common": 77
+		"ips": 127860,
+		"common": 78
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1491043,
-		"common": 31
+		"common": 32
 	},
 	{
 		"name": "firehol_level4",
@@ -176,8 +182,8 @@
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
-		"ips": 1095098,
-		"common": 19
+		"ips": 1095099,
+		"common": 20
 	},
 	{
 		"name": "gpf_comics",
@@ -393,6 +399,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 17919,
-		"common": 36
+		"common": 37
 	}
 ]
