@@ -2,7 +2,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13692,
+		"ips": 13684,
 		"common": 1
 	},
 	{
@@ -116,7 +116,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 56363,
+		"ips": 56362,
 		"common": 2
 	},
 	{
@@ -182,7 +182,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9579678,
+		"ips": 9579697,
 		"common": 8
 	},
 	{
@@ -396,15 +396,27 @@
 		"common": 53
 	},
 	{
+		"name": "ri_connect_proxies",
+		"category": "anonymizers",
+		"ips": 150,
+		"common": 1
+	},
+	{
+		"name": "ri_connect_proxies_1d",
+		"category": "anonymizers",
+		"ips": 227,
+		"common": 1
+	},
+	{
 		"name": "ri_connect_proxies_30d",
 		"category": "anonymizers",
-		"ips": 2082,
+		"ips": 2095,
 		"common": 7
 	},
 	{
 		"name": "ri_connect_proxies_7d",
 		"category": "anonymizers",
-		"ips": 656,
+		"ips": 676,
 		"common": 3
 	},
 	{
