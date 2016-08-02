@@ -48,22 +48,34 @@
 		"common": 1
 	},
 	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 78080,
+		"common": 1
+	},
+	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1429248,
-		"common": 3
+		"ips": 1430272,
+		"common": 4
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 516096,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 22958653,
-		"common": 11
+		"common": 12
+	},
+	{
+		"name": "et_spamhaus",
+		"category": "attacks",
+		"ips": 22952704,
+		"common": 1
 	},
 	{
 		"name": "feodo",
@@ -75,19 +87,19 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 666385305,
-		"common": 71
+		"common": 72
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 105530,
-		"common": 1
+		"ips": 106303,
+		"common": 2
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1508840,
-		"common": 71
+		"ips": 1509862,
+		"common": 72
 	},
 	{
 		"name": "firehol_webserver",
@@ -111,7 +123,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "iblocklist_edu",
@@ -162,6 +174,12 @@
 		"common": 2
 	},
 	{
+		"name": "iblocklist_spamhaus_drop",
+		"category": "attacks",
+		"ips": 23017216,
+		"common": 1
+	},
+	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
@@ -198,6 +216,12 @@
 		"common": 2
 	},
 	{
+		"name": "spamhaus_drop",
+		"category": "reputation",
+		"ips": 23017216,
+		"common": 1
+	},
+	{
 		"name": "spamhaus_edrop",
 		"category": "reputation",
 		"ips": 804864,
@@ -207,7 +231,7 @@
 		"name": "sslbl_aggressive",
 		"category": "malware",
 		"ips": 2043,
-		"common": 71
+		"common": 72
 	},
 	{
 		"name": "stopforumspam_toxic",
@@ -224,7 +248,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 13706,
+		"ips": 13642,
 		"common": 8
 	},
 	{
