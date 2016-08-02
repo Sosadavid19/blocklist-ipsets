@@ -152,19 +152,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 24506,
-		"common": 5374
+		"ips": 24624,
+		"common": 5423
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9518,
+		"ips": 9521,
 		"common": 20
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 588,
+		"ips": 592,
 		"common": 14
 	},
 	{
@@ -176,20 +176,20 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 418,
+		"ips": 419,
 		"common": 17
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1062,
+		"ips": 1065,
 		"common": 39
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20321,
-		"common": 5274
+		"ips": 20421,
+		"common": 5323
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -200,7 +200,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 2095,
+		"ips": 2105,
 		"common": 48
 	},
 	{
@@ -314,8 +314,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 7808,
-		"common": 66
+		"ips": 6866,
+		"common": 57
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -498,22 +498,28 @@
 		"common": 2247
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 8
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 86016,
-		"common": 365
+		"common": 371
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1429760,
-		"common": 6089
+		"ips": 1430016,
+		"common": 6095
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 527360,
-		"common": 2375
+		"ips": 528640,
+		"common": 2383
 	},
 	{
 		"name": "dshield_top_1000",
@@ -668,20 +674,20 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666385285,
-		"common": 3189
+		"ips": 666385049,
+		"common": 3197
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 111962,
-		"common": 5790
+		"ips": 112095,
+		"common": 5845
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1506486,
-		"common": 9106
+		"ips": 1505945,
+		"common": 9103
 	},
 	{
 		"name": "firehol_level4",
