@@ -243,7 +243,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 26922,
-		"common": 2034
+		"common": 2033
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -279,7 +279,7 @@
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 22546,
-		"common": 1159
+		"common": 1158
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -302,7 +302,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13738,
+		"ips": 13650,
 		"common": 472
 	},
 	{
@@ -614,20 +614,20 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 76800,
-		"common": 76800
+		"ips": 78592,
+		"common": 78592
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1430528,
-		"common": 1430528
+		"ips": 1431552,
+		"common": 1431552
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 518144,
-		"common": 518144
+		"ips": 517888,
+		"common": 517888
 	},
 	{
 		"name": "dshield_top_1000",
@@ -854,13 +854,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 105265,
-		"common": 78837
+		"ips": 107057,
+		"common": 80628
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9579714,
+		"ips": 9579625,
 		"common": 4679
 	},
 	{
@@ -873,7 +873,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46348446,
-		"common": 139530
+		"common": 139531
 	},
 	{
 		"name": "fullbogons",
@@ -1005,7 +1005,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 79720
+		"common": 79722
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -1125,7 +1125,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691761,
-		"common": 53435
+		"common": 53436
 	},
 	{
 		"name": "iblocklist_level2",
@@ -1275,7 +1275,7 @@
 		"name": "iw_spamlist",
 		"category": "spam",
 		"ips": 5751,
-		"common": 288
+		"common": 292
 	},
 	{
 		"name": "iw_wormlist",
@@ -1299,7 +1299,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 2730410,
-		"common": 16864
+		"common": 16873
 	},
 	{
 		"name": "malc0de",
@@ -1328,8 +1328,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38722,
-		"common": 908
+		"ips": 38713,
+		"common": 822
 	},
 	{
 		"name": "nt_malware_http",
@@ -1629,7 +1629,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46134152,
-		"common": 135809
+		"common": 135810
 	},
 	{
 		"name": "ransomware_feed",
@@ -1761,31 +1761,31 @@
 		"name": "sorbs_anonymizers",
 		"category": "spam",
 		"ips": 604044,
-		"common": 1021
+		"common": 1022
 	},
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373340553,
-		"common": 109246
+		"common": 109501
 	},
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 137607,
-		"common": 3761
+		"common": 3766
 	},
 	{
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 20924774,
-		"common": 14787
+		"common": 14790
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1145276,
-		"common": 10846
+		"common": 10854
 	},
 	{
 		"name": "sorbs_smtp",
@@ -1797,13 +1797,13 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6096283,
-		"common": 15428
+		"common": 15432
 	},
 	{
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 146533
+		"common": 146790
 	},
 	{
 		"name": "sp_atma",
@@ -1875,7 +1875,7 @@
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 323868,
-		"common": 3974
+		"common": 3975
 	},
 	{
 		"name": "stopforumspam_1d",
@@ -1893,7 +1893,7 @@
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 643897,
-		"common": 5628
+		"common": 5629
 	},
 	{
 		"name": "stopforumspam_7d",
@@ -1922,8 +1922,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 14006,
-		"common": 14006
+		"ips": 13970,
+		"common": 13970
 	},
 	{
 		"name": "threatcrowd",
@@ -1965,7 +1965,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 19998,
-		"common": 4024
+		"common": 4025
 	},
 	{
 		"name": "urlvir",
