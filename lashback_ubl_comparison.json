@@ -44,7 +44,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 249,
+		"ips": 260,
 		"common": 1
 	},
 	{
@@ -74,8 +74,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1541,
-		"common": 289
+		"ips": 1550,
+		"common": 293
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -206,8 +206,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14263,
-		"common": 436
+		"ips": 14284,
+		"common": 430
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -258,22 +258,28 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 36,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1296,
+		"ips": 1287,
 		"common": 19
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19910,
+		"ips": 19907,
 		"common": 550
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6270,
-		"common": 88
+		"ips": 6266,
+		"common": 87
 	},
 	{
 		"name": "bruteforceblocker",
@@ -326,74 +332,74 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 3569,
-		"common": 59
+		"ips": 3574,
+		"common": 56
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 39347,
-		"common": 1139
+		"ips": 39443,
+		"common": 1135
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 151420,
-		"common": 4900
+		"ips": 151479,
+		"common": 4904
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 87847,
-		"common": 2913
+		"ips": 87912,
+		"common": 2917
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 1591,
-		"common": 13
+		"ips": 1599,
+		"common": 15
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 3418,
-		"common": 44
+		"ips": 3428,
+		"common": 46
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 75324,
-		"common": 2167
+		"ips": 75337,
+		"common": 2169
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 18217,
-		"common": 265
+		"ips": 18221,
+		"common": 267
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 46
+		"common": 41
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 44158,
-		"common": 1194
+		"ips": 44219,
+		"common": 1186
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 122826,
-		"common": 3736
+		"ips": 122923,
+		"common": 3738
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 100388,
-		"common": 3112
+		"ips": 100482,
+		"common": 3114
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -650,25 +656,25 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 47993,
-		"common": 1408
+		"ips": 48061,
+		"common": 1399
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 311482,
-		"common": 11911
+		"ips": 311556,
+		"common": 11915
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84402,
+		"ips": 84403,
 		"common": 5168
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666362509,
+		"ips": 666362520,
 		"common": 907
 	},
 	{
@@ -686,13 +692,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9580299,
-		"common": 5647
+		"ips": 9580321,
+		"common": 5642
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 26990,
+		"ips": 26991,
 		"common": 5104
 	},
 	{
@@ -1388,7 +1394,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 1353,
+		"ips": 1352,
 		"common": 4
 	},
 	{
@@ -1479,25 +1485,25 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 45
+		"common": 54
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1795,
-		"common": 989
+		"ips": 1796,
+		"common": 988
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 12451,
+		"ips": 12452,
 		"common": 4544
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
 		"ips": 4186,
-		"common": 1755
+		"common": 1754
 	},
 	{
 		"name": "sorbs_anonymizers",
