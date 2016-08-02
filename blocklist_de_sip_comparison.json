@@ -33,13 +33,13 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 8739,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 3909,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "bi_ftp_2_30d",
@@ -51,6 +51,12 @@
 		"name": "bi_http_2_30d",
 		"category": "attacks",
 		"ips": 554,
+		"common": 1
+	},
+	{
+		"name": "bi_mail_2_30d",
+		"category": "attacks",
+		"ips": 2649,
 		"common": 1
 	},
 	{
@@ -68,13 +74,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 27104,
-		"common": 75
+		"ips": 27162,
+		"common": 76
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13445,
+		"ips": 13491,
 		"common": 4
 	},
 	{
@@ -171,7 +177,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 107498,
-		"common": 75
+		"common": 76
 	},
 	{
 		"name": "firehol_level3",
@@ -182,7 +188,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9579443,
+		"ips": 9579487,
 		"common": 15
 	},
 	{
@@ -339,7 +345,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373340553,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "sorbs_recent_spam",
