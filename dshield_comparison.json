@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 21761,
-		"common": 309
+		"common": 308
 	},
 	{
 		"name": "atlas_attacks_30d",
@@ -27,13 +27,13 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 5496,
-		"common": 60
+		"common": 61
 	},
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1545,
-		"common": 44
+		"ips": 1543,
+		"common": 43
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -164,7 +164,7 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19899,
+		"ips": 19904,
 		"common": 1
 	},
 	{
@@ -177,7 +177,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 7519,
-		"common": 69
+		"common": 68
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -186,45 +186,57 @@
 		"common": 4
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 3591,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 39617,
+		"ips": 39626,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 151645,
+		"ips": 151670,
 		"common": 12
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 88003,
+		"ips": 87981,
 		"common": 9
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 75309,
+		"ips": 75301,
 		"common": 3
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 44380,
+		"ips": 44389,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 123338,
+		"ips": 123406,
 		"common": 10
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 100774,
+		"ips": 100766,
 		"common": 9
 	},
 	{
@@ -237,7 +249,7 @@
 		"name": "cybercrime",
 		"category": "malware",
 		"ips": 8691,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "darklist_de",
@@ -278,19 +290,19 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 84736,
+		"ips": 84992,
 		"common": 5120
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1436160,
+		"ips": 1435648,
 		"common": 5120
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 513024,
+		"ips": 513280,
 		"common": 5120
 	},
 	{
@@ -326,38 +338,38 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 48261,
+		"ips": 48278,
 		"common": 2
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 311817,
+		"ips": 311851,
 		"common": 13
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666362519,
+		"ips": 666362521,
 		"common": 5120
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 116186,
+		"ips": 116442,
 		"common": 5120
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1517977,
+		"ips": 1517471,
 		"common": 5120
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9580505,
-		"common": 97
+		"ips": 9580514,
+		"common": 96
 	},
 	{
 		"name": "firehol_webserver",
@@ -423,7 +435,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 256
+		"common": 512
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -698,7 +710,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 15590,
+		"ips": 15594,
 		"common": 1
 	},
 	{
