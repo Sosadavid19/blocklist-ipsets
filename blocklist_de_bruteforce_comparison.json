@@ -50,14 +50,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 26486,
-		"common": 280
+		"ips": 26467,
+		"common": 281
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9509,
-		"common": 280
+		"ips": 9507,
+		"common": 281
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -278,8 +278,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 106613,
-		"common": 280
+		"ips": 106592,
+		"common": 281
 	},
 	{
 		"name": "firehol_level3",
@@ -291,7 +291,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9579583,
-		"common": 159
+		"common": 160
 	},
 	{
 		"name": "firehol_proxies",
@@ -394,6 +394,12 @@
 		"category": "attacks",
 		"ips": 23017216,
 		"common": 6
+	},
+	{
+		"name": "iblocklist_spyware",
+		"category": "reputation",
+		"ips": 339021,
+		"common": 1
 	},
 	{
 		"name": "ipblacklistcloud_recent",
