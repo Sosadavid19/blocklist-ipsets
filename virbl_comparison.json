@@ -8,43 +8,49 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 22421,
+		"ips": 22509,
 		"common": 4
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1431552,
+		"ips": 1432576,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 105998,
-		"common": 122
+		"ips": 107025,
+		"common": 121
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1511684,
+		"ips": 1512708,
 		"common": 7
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46348446,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "iblocklist_isp_qwest",
 		"category": "organizations",
 		"ips": 15777552,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762691761,
 		"common": 1
 	},
 	{
@@ -57,13 +63,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 13
-	},
-	{
-		"name": "iblocklist_rangetest",
-		"category": "reputation",
-		"ips": 4346058,
-		"common": 1
+		"common": 12
 	},
 	{
 		"name": "iw_spamlist",
@@ -87,7 +87,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 46134152,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "snort_ipfilter",
@@ -105,7 +105,7 @@
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 137607,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "sorbs_noserver",
@@ -117,7 +117,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1145276,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "sorbs_web",
