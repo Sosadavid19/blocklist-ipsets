@@ -56,19 +56,19 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4504,
+		"ips": 4506,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5927,
+		"ips": 5919,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25645,
+		"ips": 25637,
 		"common": 33
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14454,
+		"ips": 14432,
 		"common": 164
 	},
 	{
@@ -350,19 +350,19 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 83712,
+		"ips": 84736,
 		"common": 513
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1436416,
+		"ips": 1436160,
 		"common": 3610
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 512256,
+		"ips": 513024,
 		"common": 1289
 	},
 	{
@@ -530,25 +530,25 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666362521,
+		"ips": 666362519,
 		"common": 280
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 115116,
-		"common": 646
+		"ips": 116186,
+		"common": 647
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1518236,
+		"ips": 1517977,
 		"common": 3972
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9580526,
+		"ips": 9580505,
 		"common": 519
 	},
 	{
@@ -1288,6 +1288,12 @@
 		"category": "reputation",
 		"ips": 19998,
 		"common": 31
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 176,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
