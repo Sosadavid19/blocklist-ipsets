@@ -50,13 +50,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29955,
-		"common": 511
+		"ips": 30037,
+		"common": 513
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14373,
+		"ips": 14469,
 		"common": 207
 	},
 	{
@@ -180,16 +180,22 @@
 		"common": 1
 	},
 	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 84736,
+		"common": 1
+	},
+	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1437184,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 513536,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "et_block",
@@ -224,19 +230,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 116337,
-		"common": 511
+		"ips": 116417,
+		"common": 513
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 1519144,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9580469,
+		"ips": 9580565,
 		"common": 208
 	},
 	{
@@ -315,7 +321,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -453,7 +459,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 110
+		"common": 111
 	},
 	{
 		"name": "sp_atma",
