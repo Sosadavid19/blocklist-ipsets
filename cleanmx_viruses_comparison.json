@@ -128,13 +128,13 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4471,
+		"ips": 4470,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 5933,
+		"ips": 5918,
 		"common": 1
 	},
 	{
@@ -146,19 +146,19 @@
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10694,
+		"ips": 10695,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29256,
+		"ips": 29288,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9437,
+		"ips": 9444,
 		"common": 4
 	},
 	{
@@ -182,7 +182,7 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24787,
+		"ips": 24791,
 		"common": 3
 	},
 	{
@@ -300,45 +300,57 @@
 		"common": 857
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 3544,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 39566,
-		"common": 17
+		"ips": 39534,
+		"common": 18
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 151280,
+		"ips": 151303,
 		"common": 70
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 87980,
+		"ips": 87975,
 		"common": 40
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 75395,
+		"ips": 75384,
 		"common": 17
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 44430,
-		"common": 18
+		"ips": 44368,
+		"common": 19
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 122428,
+		"ips": 122512,
 		"common": 63
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 100509,
+		"ips": 100524,
 		"common": 44
 	},
 	{
@@ -500,13 +512,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 48200,
-		"common": 18
+		"ips": 48182,
+		"common": 19
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 311266,
+		"ips": 311324,
 		"common": 90
 	},
 	{
@@ -890,8 +902,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38775,
-		"common": 1
+		"ips": 38708,
+		"common": 2
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -974,7 +986,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 1353,
+		"ips": 1352,
 		"common": 128
 	},
 	{
