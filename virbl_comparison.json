@@ -1,9 +1,27 @@
 [
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 24780,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 20565,
+		"common": 1
+	},
+	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 111485,
-		"common": 37
+		"ips": 111254,
+		"common": 63
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 1507781,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
@@ -24,15 +42,27 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346613099,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 3
+		"common": 6
 	},
 	{
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
+		"common": 1
+	},
+	{
+		"name": "iw_spamlist",
+		"category": "spam",
+		"ips": 5054,
 		"common": 1
 	},
 	{
@@ -45,7 +75,7 @@
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 38689,
-		"common": 7
+		"common": 20
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -57,12 +87,36 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373340553,
+		"common": 4
+	},
+	{
+		"name": "sorbs_new_spam",
+		"category": "spam",
+		"ips": 137781,
+		"common": 3
+	},
+	{
+		"name": "sorbs_recent_spam",
+		"category": "spam",
+		"ips": 1146299,
 		"common": 3
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6096285,
+		"common": 2
+	},
+	{
+		"name": "sp_anti_infringement",
+		"category": "organizations",
+		"ips": 136184374,
+		"common": 2
+	},
+	{
+		"name": "talosintel_ipfilter",
+		"category": "attacks",
+		"ips": 10412,
 		"common": 1
 	}
 ]

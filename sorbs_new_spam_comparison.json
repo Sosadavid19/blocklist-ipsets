@@ -404,19 +404,19 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 85248,
+		"ips": 84992,
 		"common": 34
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1430272,
-		"common": 799
+		"ips": 1431296,
+		"common": 798
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 527616,
+		"ips": 528640,
 		"common": 237
 	},
 	{
@@ -476,20 +476,20 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 666385305,
+		"ips": 666385310,
 		"common": 354
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 111485,
-		"common": 3998
+		"ips": 111254,
+		"common": 4001
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1506758,
-		"common": 2930
+		"ips": 1507781,
+		"common": 2929
 	},
 	{
 		"name": "firehol_level4",
@@ -1130,7 +1130,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 1336,
+		"ips": 1337,
 		"common": 4
 	},
 	{
@@ -1414,6 +1414,12 @@
 		"category": "reputation",
 		"ips": 19998,
 		"common": 76
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 63,
+		"common": 3
 	},
 	{
 		"name": "voipbl",
