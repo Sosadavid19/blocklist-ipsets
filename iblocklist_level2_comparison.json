@@ -171,7 +171,7 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 1222,
-		"common": 99
+		"common": 102
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -374,26 +374,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 56,
-		"common": 2
+		"ips": 54,
+		"common": 4
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1244,
-		"common": 41
+		"ips": 1253,
+		"common": 44
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19891,
-		"common": 547
+		"ips": 19898,
+		"common": 549
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6131,
-		"common": 207
+		"ips": 6137,
+		"common": 209
 	},
 	{
 		"name": "botvrij_dst",
@@ -428,8 +428,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 6866,
-		"common": 283
+		"ips": 6985,
+		"common": 290
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -624,21 +624,27 @@
 		"common": 442
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 256
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 83968,
+		"ips": 82944,
 		"common": 3345
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1431040,
+		"ips": 1431552,
 		"common": 62543
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 527360,
+		"ips": 525824,
 		"common": 18665
 	},
 	{
@@ -836,8 +842,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 49641,
-		"common": 1276
+		"ips": 49649,
+		"common": 1277
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -860,20 +866,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 110807,
+		"ips": 109785,
 		"common": 4504
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 1507806,
-		"common": 65093
+		"ips": 1508426,
+		"common": 65099
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9579700,
-		"common": 2537752
+		"ips": 9579706,
+		"common": 2537754
 	},
 	{
 		"name": "firehol_proxies",
@@ -2012,7 +2018,7 @@
 	{
 		"name": "virbl",
 		"category": "spam",
-		"ips": 87,
+		"ips": 90,
 		"common": 1
 	},
 	{
