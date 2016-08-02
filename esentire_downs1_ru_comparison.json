@@ -24,12 +24,6 @@
 		"common": 1
 	},
 	{
-		"name": "blocklist_net_ua",
-		"category": "abuse",
-		"ips": 13491,
-		"common": 1
-	},
-	{
 		"name": "bm_tor",
 		"category": "anonymizers",
 		"ips": 6786,
@@ -104,7 +98,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 303482,
+		"ips": 303481,
 		"common": 5
 	},
 	{
@@ -278,7 +272,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 84351,
+		"ips": 84353,
 		"common": 1
 	},
 	{
@@ -302,8 +296,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9579487,
-		"common": 4
+		"ips": 9579477,
+		"common": 3
 	},
 	{
 		"name": "firehol_webserver",
